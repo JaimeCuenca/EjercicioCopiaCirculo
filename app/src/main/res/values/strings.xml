@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjercicioCopiaCirculo</string>
+    <string name="encabezado11">Asunto</string>
+    <string name="encabezado12">Fecha</string>
+    <string name="encabezado21">Contenido</string>
+    <string name="encabezado22">Estrellita</string>
+</resources>
