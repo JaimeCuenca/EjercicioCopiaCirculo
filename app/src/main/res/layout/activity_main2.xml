@@ -7,7 +7,6 @@
     tools:context=".MainActivity"
     android:stretchColumns="2">
     <TableRow>
-
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -58,6 +57,4 @@
                 </TableRow>
             </TableLayout>
     </TableRow>
-
-
 </TableLayout>

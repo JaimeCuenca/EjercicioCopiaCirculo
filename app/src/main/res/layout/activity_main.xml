@@ -29,12 +29,12 @@
                 android:layout_weight="1">
                 <TextView
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:text="@string/encabezado11"/>
                 <TextView
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:text="@string/encabezado12"/>
             </android.widget.LinearLayout>
@@ -44,22 +44,17 @@
                 android:layout_weight="1">
                 <TextView
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:text="@string/encabezado21" />
 
                 <TextView
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:text="@string/encabezado22" />
             </android.widget.LinearLayout>
         </android.widget.LinearLayout>
 
     </android.widget.LinearLayout>
-
-
-
-
-
 </android.widget.LinearLayout>
